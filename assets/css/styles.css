@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.bodyContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.topspace{
+    margin-top: 7.5rem !important;
+}
+.border-radius{
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.144);
+}
+.d-block{
+    border-radius: 30px;
+    height: 45px;
+}
+.aside-bg-primary{
+    background: #011746;
+}
+.primary-text-color{
+    color: #011746;
+}
+.btn-bg-primary{
+    background: #011746;
+}
+.btn-bg-primary:hover{
+    background: #003ab8;
+}
